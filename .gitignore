@@ -560,6 +560,4 @@ dist
 _pycache_
 *.pyc
 
-public/tournaments.json
-
-*Key.py
+src/Key.py
