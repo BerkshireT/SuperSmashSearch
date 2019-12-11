@@ -555,9 +555,11 @@ dist
 # TernJS port file
 .tern-port
 
-src/SmashSearch/.paket/load
+.paket/load
 
-src/SmashSerach/src/_pycache_
+_pycache_
 *.pyc
 
-src/SmashSearch/public/tournaments.json
+public/tournaments.json
+
+*Key.py

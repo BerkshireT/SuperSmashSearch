@@ -31,6 +31,12 @@ Paket
 dotnet tool install --global Paket
 ```
 
+You will also need to obtain a smash.gg API key [here]().
+Then you must create the file Key.py in the src directory with the following variable:
+```
+apiKey = "<your_api_key_here>"
+```
+
 
 ### Installing
 
